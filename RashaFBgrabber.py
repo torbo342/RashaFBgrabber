@@ -76,7 +76,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \x1b[37;1m+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×++×+×+×+×+
-\x1b[31;1m@              Rasha Wa7sh               @
+\x1b[31;1m@                    TORBO               @
 \x1b[31;1m@              Version: 1                @                
 \x1b[31;1m@              FB Grabber                @
 \x1b[37;1m+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×++×+×+×+×+
